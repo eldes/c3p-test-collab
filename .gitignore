@@ -1,0 +1,21 @@
+# Ignorar arquivos de backup do Construct 3
+*.backup
+*.uistate.json
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar diretórios de configuração de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de build
+build/
+dist/
+
+# Ignorar arquivos de cache
+.cache/

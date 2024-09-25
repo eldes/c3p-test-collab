@@ -1,0 +1,55 @@
+{
+	"name": "BirdSprite",
+	"plugin-id": "Sprite",
+	"sid": 305522042917373,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 512,
+						"height": 512,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 917618,
+						"collisionPoly": {
+							"points": [
+								0.794921875,
+								0.07421875,
+								0.953125,
+								0.234375,
+								0.625,
+								0.96875,
+								0.375,
+								0.96875,
+								0.048828125,
+								0.947265625,
+								0.654296875,
+								0.05859375
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 893463346799917,
+				"name": "IdleAnimation",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
